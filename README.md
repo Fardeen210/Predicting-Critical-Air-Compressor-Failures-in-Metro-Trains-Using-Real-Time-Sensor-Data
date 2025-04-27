@@ -1,4 +1,5 @@
-# Predictive-Maintenance-of-Air-Compressor-System-using-Supervised-Machine-Learning
+# Predicting Critical Air Compressor Failures in Metro Trains Using Real-Time Sensor Data
+
 This project focuses on the analysis of an air compressor sensor dataset and the application of supervised machine learning techniques for predictive maintenance.  The dataset includes sensor readings, operational parameters, and failure event logs over several months. The goal is to detect and predict failure events (specifically air leaks) to minimize downtime and improve operational reliability.
 
 
