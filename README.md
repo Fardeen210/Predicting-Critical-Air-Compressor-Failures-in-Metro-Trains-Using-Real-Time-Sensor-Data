@@ -36,7 +36,7 @@ Features used: sensor measurements and binary sensor signals
 # Models Experimented
 
 1. Random Forest Classifier
-2. Support Vector Machine (SVM)
+2. Decision Trees
 3. Logistic Regression
 4. K- Nearest Neighbour
 5. ADA Boost.
