@@ -33,20 +33,26 @@ Extracted failure and normal samples to build a balanced training set
 
 Features used: sensor measurements and binary sensor signals
 
-# Models Used
+# Models Experimented
 
 1. Random Forest Classifier
-
-Ensemble of decision trees
-
-Handles nonlinear relationships and feature importance
-
 2. Support Vector Machine (SVM)
-
-Finds optimal boundary between classes
-
-Effective in high-dimensional spaces
-
 3. Logistic Regression
+4. K- Nearest Neighbour
+5. ADA Boost.
 
-Interpretable linear classifier
+# Results:
+Out of al 5 models, we recived better results in Random Forest Classifier.
+
+Model : Accuracy
+Logistic Regression 0.985
+KNN : 0.995
+AdaBoost: 0.991
+Decision Tree: 0.996
+Random Forest : 0.998
+
+# Conclusion:
+Random Forest and Decision Tree are the best models for our research questions because they both reached very high accuracy
+They are best because they can handle complex sensor data, find important features like pressure and motor current trends, and make accurate predictions even when operating conditions change
+
+
